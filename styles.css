@@ -1,0 +1,11 @@
+h1 {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+#test{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
